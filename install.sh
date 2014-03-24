@@ -36,3 +36,5 @@ touch .gitignore
 echo venv/ >> .gitignore
 echo build/ >> .gitignore
 echo *.pyc >> .gitignore
+echo .project >> .gitignore
+echo .pydevproject >> .gitignore
